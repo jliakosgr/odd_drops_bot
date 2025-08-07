@@ -88,7 +88,7 @@ Min Odd BetType
 ### **Step 1: Start Free Trial**
 ```
 1. Open Telegram
-2. Search: @odd_drops_bot
+2. Search: @odd_drops_bot t.me/odd_drops_bot
 3. Send: /trial
 4. Enjoy 48 hours FREE!
 ```
