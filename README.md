@@ -13,7 +13,7 @@
 
 ### ⚡ **Lightning-Fast Alerts**
 - **Real-time monitoring** - We track odds 24/7
-- **Instant notifications** - Get alerts within seconds of odds dropping
+- **Instant notifications** - Get alerts instantly when odds are dropping
 - **Never miss opportunities** - Catch profitable bets before they're gone
 
 ### 🎯 **Proven Results**
