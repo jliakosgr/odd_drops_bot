@@ -1,4 +1,5 @@
 # 🎯 Dropping Odds Bot - Never Miss Profitable Opportunities!
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Bot-blue?logo=telegram)](https://t.me/odd_drops_bot)
 
 > **💰 Turn dropping odds into your profit advantage!**
 
