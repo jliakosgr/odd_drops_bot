@@ -58,7 +58,7 @@ Min Odd BetType
 - **24/7 odds monitoring** across all major sports
 - **Instant Telegram alerts** when odds drop
 - **Advanced drop detection** algorithms
-- **Multiple sports coverage** (Football, Basketball, Tennis, etc.)
+
 - **Professional support** via Telegram
 
 ### ✅ **User-Friendly Interface**
