@@ -1,4 +1,4 @@
-# 🎯 Dropping Odds Bot - Never Miss Profitable Opportunities!!!!
+# 🎯 Dropping Odds Bot - Never Miss Profitable Opportunities!
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Bot-blue?logo=telegram)](https://t.me/odd_drops_bot)
 [Chat](https://t.me/LiveOddsAndAlerts)
 > **💰 Turn dropping odds into your profit advantage!**
