@@ -82,13 +82,10 @@ Min Odd BetType
 ```
 1. Open Telegram
 2. Search: @odd_drops_bot t.me/odd_drops_bot
-
-```
-
 ```
 
 
-```
+
 
 
 
@@ -129,11 +126,10 @@ Min Odd BetType
 
 ---
 
-<div align="center">
+
 
 **💰 Turn dropping odds into your profit advantage!**
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-@odd_drops_bot-blue.svg)](https://t.me/odd_drops_bot)
 
 
-</div> 
