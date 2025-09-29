@@ -16,7 +16,6 @@ Contact me via using [e-mail](mailto:liveodds2@gmail.com) or in [Telegram](https
 
 [![Telegram](https://img.shields.io/badge/Telegram-@odd_drops_bot-blue.svg)](https://t.me/odd_drops_bot)
 
-[![Price](https://img.shields.io/badge/Price-€15%2Fmonth-orange.svg)](https://t.me/odd_drops_bot)
 
 ## 🚀 Why Choose Our Bot?
 
