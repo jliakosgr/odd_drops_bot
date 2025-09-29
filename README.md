@@ -5,6 +5,8 @@ Don’t bet blind — bet smart with Pregame Golden Odds 🔥⚽"
 👉 Register: http://betcoach.eu/register
 📲 Contact: https://t.me/LiveOddsAndAlerts
 
+Contact me via using [e-mail](mailto:liveodds2@gmail.com) or in [Telegram](https://t.me/LiveOddsAndAlerts "Telegram")
+
 # 🎯 Dropping Odds Bot - Never Miss Profitable Opportunities!
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Bot-blue?logo=telegram)](https://t.me/odd_drops_bot)
 [Chat](https://t.me/LiveOddsAndAlerts)
