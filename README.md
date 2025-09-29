@@ -15,7 +15,7 @@ Contact me via using [e-mail](mailto:liveodds2@gmail.com) or in [Telegram](https
 **The #1 Telegram bot for catching dropping odds before they disappear. Get instant alerts when profitable betting opportunities arise and maximize your winnings!**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@odd_drops_bot-blue.svg)](https://t.me/odd_drops_bot)
-[![Free Trial](https://img.shields.io/badge/Free%20Trial-48%20Hours-green.svg)](https://t.me/odd_drops_bot)
+
 [![Price](https://img.shields.io/badge/Price-€15%2Fmonth-orange.svg)](https://t.me/odd_drops_bot)
 
 ## 🚀 Why Choose Our Bot?
@@ -124,7 +124,7 @@ Min Odd BetType
 
 **Don't let profitable opportunities slip away!**
 
-[![Start Free Trial](https://img.shields.io/badge/Start%20Free%20Trial-@odd_drops_bot-green.svg)](https://t.me/odd_drops_bot)
+[![Start](https://img.shields.io/badge/-@odd_drops_bot-green.svg)](https://t.me/odd_drops_bot)
 
 **⚡ Join thousands of successful users already profiting from dropping odds!**
 
